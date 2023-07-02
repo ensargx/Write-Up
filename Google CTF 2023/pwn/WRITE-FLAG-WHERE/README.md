@@ -80,5 +80,5 @@ And I'll write it wherever you want it to go.
 If an exit is all that you desire
 Send me nothing and I will happily expire
 0x56454B4D21E0 120
-CTF{Y0ur_j0urn3y_is_0n1y_ju5t_b39innin9}
+CTF{[REDACTED]}
 ```
